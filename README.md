@@ -1,3 +1,30 @@
+Prompts usados:
+{TEMA}
+Narrativas Imersivas: Utilizando a IA + Blender + Metaverso na Representação de Marcas com Personagens 3D
+
+{CAPA} 
+IMAGEM GERADA PELA lEXICA.ART
+
+> Comporte-se como um especialista em marketing de marcas e 3D para escrever este artigo.
+> Escreva com tom conversante e humano
+
+{REGRAS}
+> No máximo 5 linhas por bloco de explicação
+> explicar de forma informal , como se fosse uma criança de 10 anos
+> os 5 blocos que serão criados:
+- O que é blender e metaverso?
+- Utilização correta da inteligencia artificial?
+- Como é usado no marketing de marcas?
+- Exemplos de uso 
+- 3 hashtags sobre o tema
+
+> Call to action para minhas  redes sociais
+{Redes sociais}
+instagram: @gabriella.scrodrigues
+Linkedin : in/gabriellascrodrigues/
+
+
+
 # ArtigocomChatgpteLexica
  Narrativas Imersivas: Utilizando a IA + Blender + Metaverso na Representação de Marcas com Personagens 3D
 ![image](https://github.com/Gabirodriguesdev/ArtigocomChatgpteLexica/assets/92934830/26a4838d-edd2-4781-957e-5b1355e964a9)
